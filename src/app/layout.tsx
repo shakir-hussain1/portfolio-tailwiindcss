@@ -1,4 +1,3 @@
-import Heading from "@/components/Header";
 import Footer from "@/components/Footer";
 import "./globals.css";
 import type { Metadata } from "next";
